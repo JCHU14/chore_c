@@ -1,0 +1,8 @@
+version: '3'
+services:
+  app:
+    image: your-dockerhub-username/chore_c:latest
+    env_file:
+      - chore_c-env
+    ports:
+      - "7045:80"

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "chore_c", "chore_c.csproj", "{0B78D4D2-583E-49E9-A75E-2287A646E971}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B78D4D2-583E-49E9-A75E-2287A646E971}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B78D4D2-583E-49E9-A75E-2287A646E971}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B78D4D2-583E-49E9-A75E-2287A646E971}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B78D4D2-583E-49E9-A75E-2287A646E971}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB87C261-1414-443B-90CC-82722CE6CAED}
+	EndGlobalSection
+EndGlobal
